@@ -5,4 +5,5 @@ int main()
 {
 	cout << "lob";
 	cout << "pidr";
+	cout << "link";
 }
