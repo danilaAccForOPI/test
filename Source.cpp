@@ -8,4 +8,5 @@ int main()
 	cout << "link";
 	cout << "linkdf";
 	cout << "dsds";
+	cout << "and";
 }
